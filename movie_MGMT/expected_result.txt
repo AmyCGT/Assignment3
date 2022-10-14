@@ -25,7 +25,6 @@ changing the status of the movie...
 Printing all movies....
 Spiderman, rating of 3, havewatched: true
 Citizen Kane, rating of 4, havewatched: false
-
 Zootopia, rating of 4.5, havewatched: true
 Parasite, rating of 2, havewatched: false
 
